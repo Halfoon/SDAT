@@ -1,7 +1,7 @@
 # SDAT- A Simple Data Analysis Tool
 
 ## 介绍
-[数据删除]的大学计算机基础（ 2021 年春）-大作业第一题
+[数据删除]的大学计算机基础（ 2021 年春）- 大作业第一题
 
 ## 运行
 `python gui.py`
